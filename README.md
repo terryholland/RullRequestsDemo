@@ -5,3 +5,5 @@ This course can be founf at https://app.pluralsight.com/library/courses/github-p
 
 
 This is a change made on personal machine
+
+an additional comment in readme
